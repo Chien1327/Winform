@@ -1,0 +1,10 @@
+C:\Users\dangc\Documents\Winform\WinForm_Phantucoban\obj\Debug\WinForm_Phantucoban.csproj.AssemblyReference.cache
+C:\Users\dangc\Documents\Winform\WinForm_Phantucoban\obj\Debug\WinForm_Phantucoban.Form1.resources
+C:\Users\dangc\Documents\Winform\WinForm_Phantucoban\obj\Debug\WinForm_Phantucoban.Properties.Resources.resources
+C:\Users\dangc\Documents\Winform\WinForm_Phantucoban\obj\Debug\WinForm_Phantucoban.csproj.GenerateResource.cache
+C:\Users\dangc\Documents\Winform\WinForm_Phantucoban\obj\Debug\WinForm_Phantucoban.csproj.CoreCompileInputs.cache
+C:\Users\dangc\Documents\Winform\WinForm_Phantucoban\bin\Debug\WinForm_Phantucoban.exe.config
+C:\Users\dangc\Documents\Winform\WinForm_Phantucoban\bin\Debug\WinForm_Phantucoban.exe
+C:\Users\dangc\Documents\Winform\WinForm_Phantucoban\bin\Debug\WinForm_Phantucoban.pdb
+C:\Users\dangc\Documents\Winform\WinForm_Phantucoban\obj\Debug\WinForm_Phantucoban.exe
+C:\Users\dangc\Documents\Winform\WinForm_Phantucoban\obj\Debug\WinForm_Phantucoban.pdb
